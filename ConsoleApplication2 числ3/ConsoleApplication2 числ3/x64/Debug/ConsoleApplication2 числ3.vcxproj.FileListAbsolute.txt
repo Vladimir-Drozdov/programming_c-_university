@@ -1,0 +1,3 @@
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\x64\Debug\ConsoleApplication2 числ3.vcxproj.AssemblyReference.cache
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\x64\Debug\ConsoleApplication2числ3.MyForm.resources
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\x64\Debug\ConsoleApplication2 числ3.vcxproj.GenerateResource.cache

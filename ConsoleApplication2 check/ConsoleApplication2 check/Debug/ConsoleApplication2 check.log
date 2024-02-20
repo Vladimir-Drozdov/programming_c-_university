@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2 check.cpp
+C:\c++\ConsoleApplication2 check\ConsoleApplication2 check\ConsoleApplication2 check.cpp(25,12): warning C4101: epsilon: неиспользованная локальная переменная
+  ConsoleApplication2 check.vcxproj -> C:\c++\ConsoleApplication2 check\Debug\ConsoleApplication2 check.exe

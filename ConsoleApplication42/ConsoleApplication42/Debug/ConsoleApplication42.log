@@ -1,0 +1,3 @@
+﻿  ConsoleApplication42.cpp
+C:\c++\ConsoleApplication42\ConsoleApplication42\ConsoleApplication42.cpp(10,14): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication42.vcxproj -> C:\c++\ConsoleApplication42\Debug\ConsoleApplication42.exe

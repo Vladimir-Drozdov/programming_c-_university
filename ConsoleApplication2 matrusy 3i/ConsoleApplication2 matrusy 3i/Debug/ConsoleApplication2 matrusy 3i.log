@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2 matrusy 3i.cpp
+C:\c++\ConsoleApplication2 matrusy 3i\ConsoleApplication2 matrusy 3i\ConsoleApplication2 matrusy 3i.cpp(24,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 3i\ConsoleApplication2 matrusy 3i\ConsoleApplication2 matrusy 3i.cpp(64,6): warning C4101: method: неиспользованная локальная переменная
+  ConsoleApplication2 matrusy 3i.vcxproj -> C:\c++\ConsoleApplication2 matrusy 3i\Debug\ConsoleApplication2 matrusy 3i.exe

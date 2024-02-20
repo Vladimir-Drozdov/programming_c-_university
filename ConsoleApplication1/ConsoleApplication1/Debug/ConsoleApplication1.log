@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\c++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,18): warning C4101: omega2: неиспользованная локальная переменная
+C:\c++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(86,17): warning C4101: second: неиспользованная локальная переменная
+C:\c++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13): warning C4715: facrotial: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe

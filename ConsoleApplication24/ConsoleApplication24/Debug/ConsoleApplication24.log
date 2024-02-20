@@ -1,0 +1,3 @@
+﻿  ConsoleApplication24.cpp
+C:\c++\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(28): warning C4715: All::summ: значение возвращается не при всех путях выполнения
+  ConsoleApplication24.vcxproj -> C:\c++\ConsoleApplication24\Debug\ConsoleApplication24.exe

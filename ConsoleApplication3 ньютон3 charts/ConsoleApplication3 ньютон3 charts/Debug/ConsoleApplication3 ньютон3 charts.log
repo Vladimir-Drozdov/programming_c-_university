@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ConsoleApplication3 ньютон3 charts.cpp
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts.cpp(9,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts.cpp(39,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts.cpp(79,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts.cpp(90,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts.cpp(130,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ConsoleApplication3 ньютон3 charts.vcxproj -> C:\c++\ConsoleApplication3 ньютон3 charts\Debug\ConsoleApplication3 ньютон3 charts.exe

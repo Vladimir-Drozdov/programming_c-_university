@@ -1,0 +1,12 @@
+﻿  ConsoleApplication13.cpp
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(47,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(68,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(109,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(110,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(124,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(126,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(15,16): warning C4101: s3: неиспользованная локальная переменная
+C:\c++\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(70,21): warning C4101: alreadyThere: неиспользованная локальная переменная
+  ConsoleApplication13.vcxproj -> C:\c++\ConsoleApplication13\Debug\ConsoleApplication13.exe

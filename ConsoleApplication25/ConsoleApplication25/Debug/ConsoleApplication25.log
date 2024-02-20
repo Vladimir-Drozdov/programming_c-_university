@@ -1,0 +1,2 @@
+﻿  ConsoleApplication25.cpp
+C:\c++\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(50): error C4700: использована неинициализированная локальная переменная "z"

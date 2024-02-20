@@ -1,0 +1,3 @@
+﻿  ConsoleApplication18.cpp
+C:\c++\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(18): warning C4715: F: значение возвращается не при всех путях выполнения
+  ConsoleApplication18.vcxproj -> C:\c++\ConsoleApplication18\Debug\ConsoleApplication18.exe

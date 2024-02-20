@@ -1,0 +1,7 @@
+﻿  ConsoleApplication11.cpp
+C:\c++\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\c++\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(17,9): warning C4101: z: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\c++\ConsoleApplication11\Debug\ConsoleApplication11.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication11.vcxproj -> C:\c++\ConsoleApplication11\Debug\ConsoleApplication11.exe

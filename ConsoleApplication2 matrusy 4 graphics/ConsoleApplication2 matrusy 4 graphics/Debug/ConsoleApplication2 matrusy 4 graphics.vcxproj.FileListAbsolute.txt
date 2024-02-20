@@ -1,0 +1,4 @@
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\Debug\ConsoleApplication2 matrusy 4 graphics.vcxproj.AssemblyReference.cache
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\Debug\ConsoleApplication2matrusy4graphics.MyForm.resources
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\Debug\ConsoleApplication2 matrusy 4 graphics.vcxproj.GenerateResource.cache
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\Debug\ConsoleApplication2 matrusy 4 graphics.vcxproj.SuggestedBindingRedirects.cache

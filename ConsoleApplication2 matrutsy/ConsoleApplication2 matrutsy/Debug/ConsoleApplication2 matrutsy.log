@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2 matrutsy.cpp
+C:\c++\ConsoleApplication2 matrutsy\ConsoleApplication2 matrutsy\ConsoleApplication2 matrutsy.cpp(13): warning C4715: facrotial: значение возвращается не при всех путях выполнения
+  ConsoleApplication2 matrutsy.vcxproj -> C:\c++\ConsoleApplication2 matrutsy\Debug\ConsoleApplication2 matrutsy.exe

@@ -1,0 +1,4 @@
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\Debug\ConsoleApplication3 ньютон3 charts.vcxproj.AssemblyReference.cache
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\Debug\ConsoleApplication3ньютон3charts.MyForm.resources
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\Debug\ConsoleApplication3 ньютон3 charts.vcxproj.GenerateResource.cache
+C:\c++\ConsoleApplication3 ньютон3 charts\ConsoleApplication3 ньютон3 charts\Debug\ConsoleApplication3 ньютон3 charts.vcxproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(15,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(55,16): warning C4101: omega2: неиспользованная локальная переменная
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(98,16): warning C4101: second: неиспользованная локальная переменная
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(121,16): warning C4101: omega2: неиспользованная локальная переменная
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(156,16): warning C4101: second: неиспользованная локальная переменная
+C:\c++\ConsoleApplication2 числ3\ConsoleApplication2 числ3\MyForm.cpp(13): warning C4715: facrotial: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ConsoleApplication2 числ3.vcxproj -> C:\c++\ConsoleApplication2 числ3\x64\Debug\Application1.exe

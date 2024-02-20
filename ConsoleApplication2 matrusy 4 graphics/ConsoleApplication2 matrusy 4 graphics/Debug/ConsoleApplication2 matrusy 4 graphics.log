@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(20,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(42,25): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(49,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(266,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(274,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(487,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\c++\ConsoleApplication2 matrusy 4 graphics\ConsoleApplication2 matrusy 4 graphics\MyForm.cpp(701,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ConsoleApplication2 matrusy 4 graphics.vcxproj -> C:\c++\ConsoleApplication2 matrusy 4 graphics\Debug\ConsoleApplication2 matrusy 4 graphics.exe

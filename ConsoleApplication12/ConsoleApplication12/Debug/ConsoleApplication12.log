@@ -1,0 +1,5 @@
+﻿  ConsoleApplication12.cpp
+C:\c++\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+  LINK : не найден или не выполнена сборка C:\c++\ConsoleApplication12\Debug\ConsoleApplication12.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication12.vcxproj -> C:\c++\ConsoleApplication12\Debug\ConsoleApplication12.exe
